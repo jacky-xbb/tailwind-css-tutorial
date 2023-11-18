@@ -8,7 +8,6 @@ module.exports = {
     './app/views/**/*.{erb,haml,html,slim}'
   ],
   theme: {
-    e
     screens: {
       sm: '640px',
       md: '768px',
